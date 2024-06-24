@@ -136,7 +136,7 @@ if (!isset($_SESSION['admin_id'])) {
         }
 
         /* Icon styles */
-        .icon-dashboard, .icon-gejala, .icon-kerusakan, .icon-saran, .icon-logout {
+        .icon-dashboard, .icon-gejala, .icon-kerusakan, .icon-saran, .icon-akurasi, .icon-logout {
             width: 40px;
             height: 40px;
             background-size: cover;
@@ -146,6 +146,7 @@ if (!isset($_SESSION['admin_id'])) {
         .icon-dashboard { background-image: url('assets/home.png'); }
         .icon-gejala { background-image: url('assets/edit.png'); }
         .icon-kerusakan { background-image: url('assets/container_x2.svg'); }
+        .icon-akurasi { background-image: url('assets/pie-chart.png'); }
         .icon-saran { background-image: url('assets/ballot_box.png'); }
         .icon-logout { background-image: url('assets/inner_plugin_iframe_x2.svg'); }
     </style>
@@ -159,7 +160,7 @@ if (!isset($_SESSION['admin_id'])) {
                     <li><a href="dashboard_admin.php"><i class="icon-dashboard"></i> Dashboard</a></li>
                     <li><a href="gejala.php"><i class="icon-gejala"></i> Gejala</a></li>
                     <li><a href="kerusakan.php"><i class="icon-kerusakan"></i> Kerusakan</a></li>
-                    <li><a href="test_accuracy.php"><i class="icon-kerusakan"></i> Akurasi</a></li>
+                    <li><a href="test_accuracy.php"><i class="icon-akurasi"></i> Akurasi</a></li>
                     <li class="active"><a href="saran.php"><i class="icon-saran"></i> Saran</a></li>
                 </ul>
             </nav>
