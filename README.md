@@ -102,11 +102,8 @@ For any queries or suggestions, please open an issue on GitHub or contact the ma
 
 ## Acknowledgements
 
-- [Bootstrap](https://getbootstrap.com/) for responsive design components (if used)
-- [Font Awesome](https://fontawesome.com/) for icons (if used)
-- [Google Fonts](https://fonts.google.com/) for typography (if used)
-- [Chart.js](https://www.chartjs.org/) for data visualization (if used)
-- The mobile phone service center (NST STORE)
--
--   for providing the initial dataset
+- [Bootstrap](https://getbootstrap.com/) for responsive design components 
+- [Google Fonts](https://fonts.google.com/) for typography 
+- [Chart.js](https://www.chartjs.org/) for data visualization 
+- The mobile phone service center (NST STORE) for providing the initial dataset
 - All contributors who have helped to improve this project
