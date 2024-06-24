@@ -1,0 +1,21 @@
+No,LCD & Touchscreen,Getaran,Signal,Suara,Baterai,Port Cas,Mesin,Housing,Tombol-Tombol,Mic ,Jenis Kerusakan
+1,Responsif,Baik,Lemah,Ada,Tidak Terisi,Normal,Normal,Aman,Baik,Tidak merekam,Komponen Elektronik
+2,Tidak Responsif,Baik,Normal,Ada,Normal,Tidak Respon,Normal,Aman,Baik,Merekam,Komponen Elektronik
+3,Responsif,Baik,Normal,Tidak ada,Normal,Normal,Cepat panas,Aman,Keras,Merekam,Komponen Fisik
+4,Tidak Responsif,Baik,Normal,Ada,Normal,Normal,Restart-restart,Aman,Tidak respon,Merekam,Komponen Fisik
+5,Tidak Tampil,Mati,Hilang,Tidak ada,Normal,Normal,Mati total,Pecah,Baik,Merekam,Komponen Utama
+6,Responsif,Mati,Normal,Tidak Ada,Normal,Normal,Normal,Aman,Baik,Merekam,Komponen Fisik
+7,Responsif,Baik,Hilang,Ada,Normal,Normal,Normal,Pecah,Baik,Tidak merekam,Komponen Elektronik
+8,Tidak Tampil,Baik,Normal,Ada,Normal,Normal,Normal,Pecah,Baik,Merekam,Komponen Fisik
+9,Responsif,Baik,Normal,Ada,Normal,Normal,Normal,Aman,Tidak respon,Merekam,Komponen Fisik
+10,Responsif,Baik,Lemah,Ada,Normal,Normal,Normal,Aman,Tidak respon,Tidak merekam,Komponen Fisik
+11,Responsif,Baik,Lemah,Ada,Tidak Terisi,Longgar,Normal,Aman,Baik,Merekam,Komponen Elektronik
+12,Responsif,Baik,Normal,Ada,Normal,Normal,Normal,Aman,Keras,Merekam tidak bergelombang,Komponen Fisik
+13,Responsif,Baik,Normal,Pecah,Habis tak beraturan,Normal,Normal,Aman,Baik,Merekam,Komponen Elektronik
+14,Responsif,Baik,Normal,Ada,Normal,Normal,Normal,Aman,Baik,Merekam,Komponen Elektronik
+15,Tidak Tampil,Baik,Normal,Tidak ada,Normal,Normal,Cepat panas,Pecah,Keras,Tidak merekam,Komponen Fisik
+16,Tidak Responsif,Baik,Lemah,Ada,Normal,Normal,Restart-restart,Pecah,Baik,Merekam,Komponen Utama
+17,Tidak Tampil,Mati,Hilang,Tidak ada,Tidak Terisi,Normal,Mati total,Pecah,Baik,Merekam,Komponen Utama
+18,Responsif,Baik,Normal,Tidak ada,Normal,Normal,Normal,Aman,Baik,Tidak merekam,Komponen Elektronik
+19,Tidak Tampil,Baik,Normal,Ada,Normal,Normal,Normal,Pecah,Keras,Merekam,Komponen Fisik
+20,Responsif,Mati,Lemah,Tidak ada,Normal,Normal,Normal,Aman,Baik,Merekam,Komponen Fisik
