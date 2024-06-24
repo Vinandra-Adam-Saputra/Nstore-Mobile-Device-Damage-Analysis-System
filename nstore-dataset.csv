@@ -19,3 +19,26 @@ No,LCD & Touchscreen,Getaran,Signal,Suara,Baterai,Port Cas,Mesin,Housing,Tombol-
 18,Responsif,Baik,Normal,Tidak ada,Normal,Normal,Normal,Aman,Baik,Tidak merekam,Komponen Elektronik
 19,Tidak Tampil,Baik,Normal,Ada,Normal,Normal,Normal,Pecah,Keras,Merekam,Komponen Fisik
 20,Responsif,Mati,Lemah,Tidak ada,Normal,Normal,Normal,Aman,Baik,Merekam,Komponen Fisik
+21,Tidak Responsif,Baik,Normal,Ada,Habis tak beraturan,Normal,Cepat panas,Aman,Baik,Merekam,Komponen Elektronik
+22,Responsif,Baik,Lemah,Pecah,Normal,Tidak Respon,Normal,Aman,Keras,Tidak merekam,Komponen Elektronik
+23,Tidak Tampil,Mati,Hilang,Tidak ada,Tidak Terisi,Longgar,Mati total,Pecah,Tidak respon,Tidak merekam,Komponen Utama
+24,Responsif,Baik,Normal,Ada,Normal,Normal,Restart-restart,Aman,Baik,Merekam tidak bergelombang,Komponen Fisik
+25,Tidak Responsif,Baik,Lemah,Ada,Habis tak beraturan,Tidak Respon,Normal,Aman,Keras,Merekam,Komponen Elektronik
+26,Responsif,Baik,Normal,Tidak ada,Normal,Normal,Cepat panas,Pecah,Baik,Merekam,Komponen FIsik
+27,Tidak Tampil,Mati,Normal,Ada,Tidak Terisi,Normal,Restart-restart,Aman,tidak respon,Merekam,Komponen Utama
+28,Responsif,Baik,Hilang,Pecah,Normal,Longgar,Normal,Aman,Baik,Tidak merekam,Komponen Elektronik
+29,Tidak Responsif,Baik,Lemah,Ada,Habis tak beraturan,Normal,Cepat panas,Pecah,Keras,Merekam,Komponen Fisik
+30,Responsif,Mati,Normal,Tidak ada,Normal,Tidak Respon,Normal,Aman,tidak respon,Merekam tidak bergelombang,Komponen Fisik
+31,Responsif,baik,Normal,Ada,Normal,Normal,Normal,Aman,Baik,Merekam,Komponen Elektronik
+32,Tidak Responsif,Baik,Lemah,Tidak ada,Tidak Terisi,Tidak Respon,Cepat panas,Aman,Keras,Tidak merekam,Komponen Elektronik
+33,Tidak Tampil,mati,Hilang,Tidak ada,Normal,Normal,Mati total,Pecah,tidak respon,Merekam,Komponen Utama
+34,Responsif,Baik,Normal,Ada,Habis tak beraturan,Normal,Restart-restart,Aman,Baik,Merekam tidak bergelombang,Komponen Fisik
+35,Tidak Responsif,Baik,Lemah,Ada,Habis tak beraturan,Longgar,Normal,Pecah,Keras,Tidak merekam,Komponen Elektronik
+36,Responsif,mati,Normal,Tidak ada,Normal,tidak Respon,Cepat panas,Aman,Baik,Merekam,Komponen Fisik
+37,Tidak Tampil,Baik,Hilang,Ada,Tidak Terisi,Normal,Restart-restart,Pecah,tidak respon,Tidak merekam,Komponen Utama
+38,Responsif,Baik,Lemah,Tidak ada,Habis tak beraturan,Longgar,Normal,Aman,Baik,Merekam tidak bergelombang,Komponen Elektronik
+39,Tidak Responsif,mati,Normal,Ada,Normal,tidak Respon,Mati total,Aman,Keras,Merekam,Komponen Fisik
+40,Tidak Tampil,Baik,Hilang,Tidak ada,Habis tak beraturan,Normal,Cepat panas,Pecah,tidak respon,Tidak merekam,Komponen Utama
+41,Responsif,Baik,Lemah,Ada,Tidak Terisi,Longgar,Restart-restart,Aman,Baik,Merekam,Komponen Elektronik
+42,Tidak Responsif,mati,Normal,Tidak ada,Habis tak beraturan,tidak Respon,Normal,Pecah,Keras,Merekam tidak bergelombang,Komponen Fisik
+43,Responsif,Baik,Hilang,Ada,Normal,Normal,Cepat panas,Aman,tidak respon,Tidak merekam,Komponen Elektronik
