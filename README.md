@@ -53,10 +53,10 @@ This project is a web-based application that analyzes mobile device damage using
 To set up this project locally, follow these steps:
 
 1. Clone the repository
-2. Set up a virtual environment (recommended)
-3. Install dependencies
+2. Navigate to the project directory
+3. Open the `index.php` file in your web browser to view the website locally.
 4. Set up the database
-5. Load initial data (if available)
+5. For development, you might want to use an extension like "Live Server" in Visual Studio Code for hot reloading.
 6. Start the development server
 
 ## Usage Guide
