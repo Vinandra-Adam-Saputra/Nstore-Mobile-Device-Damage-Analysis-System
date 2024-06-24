@@ -203,7 +203,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['login'])) {
         <div class="analysis-text">
             ANALISIS KERUSAKAN HP ANDA<br>DI WEBSITE KAMI
         </div>
-        <div class="footer">project by manda gagang sapu</div>
+        <div class="footer">project by manda gagang sapu lidi</div>
     </div>
 </body>
 </html>
